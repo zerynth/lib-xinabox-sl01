@@ -1,0 +1,5 @@
+#XinaBox
+    ##SL01
+        lux_measurements
+        uv_measurements
+
